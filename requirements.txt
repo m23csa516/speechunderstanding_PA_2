@@ -1,0 +1,17 @@
+
+
+Python ≥ 3.7
+
+PyTorch
+
+torchaudio
+
+librosa
+
+transformers
+
+fairseq
+
+speechbrain
+
+ffmpeg
